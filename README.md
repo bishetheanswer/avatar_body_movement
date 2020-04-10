@@ -1,6 +1,8 @@
 # Avatar Body Movement
  3D character animation in Unity 2019.3.4f
  
+ This is a little project done just to test the possibilities that Unity offers in order to animate characters.
+ 
  Created three main animations:
  - Jumping
  - Walking
