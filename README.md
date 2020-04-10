@@ -1,5 +1,5 @@
 # Avatar Body Movement
- 3D character animation in Unity.
+ 3D character animation in Unity 2019.3.4f
  
  Created three main animations:
  - Jumping
